@@ -1,0 +1,25 @@
+Build a college admission system
+
+Front
+
+Back
+
+Dev ops
+
+
+
+How much ?
+
+300 K
+
+When can we get it?
+
+2 months
+- 1 month for system
+- 0.5 for test
+- 0.5 for debug
+Any delay concern?
+
+
+
+How stable is it? 
